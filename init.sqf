@@ -1,0 +1,1 @@
+null = [] execVM "gameSettings.sqf";

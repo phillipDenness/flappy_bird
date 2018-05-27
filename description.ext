@@ -1,0 +1,9 @@
+author = "BangaBob"; 
+onLoadMission = "Flappy Bird";
+onLoadName = "Press space to jump";
+loadScreen =  "picture\fbPic.jpg";
+
+// REQUIRED FOR BRS DO NOT EDIT
+#include "UI\defines.hpp"
+#include "UI\dialogs.hpp"
+
